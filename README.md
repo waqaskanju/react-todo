@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Todo
 
-## Available Scripts
+This Repo is for creating a simple todo using React.js, It is one of task in Microverse React Curricullum .
 
-In the project directory, you can run:
+## Built With
 
-### `npm start`
+Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🔷HTML
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🔷CSS
 
-### `npm test`
+🔷JAVASCRIPT
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🔷WEBPACK
 
-### `npm run build`
+🔷React
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Tools
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+💠VISUAL STUDIO CODE
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+💠GITHUB
 
-### `npm run eject`
+💠LINTERS (Sylint, ESlint)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Project Name
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React Todo
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Live Demo
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Comming Soon
 
-## Learn More
+## Getting Started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To get a local copy up and running follow these sample example steps.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-A text editor(preferably Visual Studio Code)
 
-### Code Splitting
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+-Need a browser to run and download the repo
+-Git is recommended for downloding the repo.
 
-### Analyzing the Bundle Size
+### Install GIT
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+You can install git from the following site.
+  -  [Git](https://git-scm.com/downloads)
 
-### Making a Progressive Web App
+### Usage
+Free to use for your work
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### Clone this repository
 
-### Advanced Configuration
+```bash
+$ git clone https://github.com/waqaskanju/react-todo.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+$ cd [project_name]
+
+```
+#### No restraction  on usage.
+
+### Run tests
+
+There is a test file (linters.yml) for this project inside the .github/workflows folder.
+
+It executes three types of tests inside github actions.
+
+1.lighthouse
+
+2.webhint
+
+3.stylint
+
+4.Eslint
+
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+It can run on any browser. 
+Mobile Screen size below < 786
+Desktop Screen Size above >786
 
-### `npm run build` fails to minify
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+👤 **Waqas Ahmad**
+
+- GitHub: [@githubhandle](https://github.com/waqas)
+- Twitter: [@twitterhandle](https://twitter.com/waqas)
+- LinkedIn: [@LinkedIn](https://linkedin.com/in/waqas)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- This file is adopted from Microverse. Thanks for assome there work.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
